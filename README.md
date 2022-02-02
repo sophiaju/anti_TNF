@@ -6,3 +6,9 @@ Research project on rheumatoid arthritis patient response to anti_TNF treatment
 - Utilized scikit-learn in Python to train various regression models to predict response
 - learned R to process RNAseq data and create visualizations
 - Selected for oral abstract presentation at European Congress of Rheumatology EULAR 2021
+
+`DAS_regression_nb`: jupyter notebook with implemented sklearn models
+
+`EULAR_abstract_presentation_slidesonly`: Powerpoint slides used for the abstract presentaion at European Congress of Rheumatology EULAR 2021
+
+`RA_anti-tnf_paper`: academic paper summarizing work done on this research project
